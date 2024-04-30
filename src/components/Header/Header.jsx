@@ -1,13 +1,16 @@
 import React from 'react'
+import nayara from "../../assets/imagens/nayara.png"
+import "./Header.css"
 
-
-
-export default function header() {
+export default function Header() {
   return (
-    <div className='topo'>
-      <h1>Nayara Dias</h1>
+  <header>
+    <img src={nayara} alt="" />
+    <div className='começo'>
       
+      <h1>Nayara Dias</h1>
+      <h2>28 Anos</h2>
     </div>
+  </header>
   )
-
 }
