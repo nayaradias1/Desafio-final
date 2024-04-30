@@ -5,11 +5,12 @@ import "./Header.css"
 export default function Header() {
   return (
   <header>
-    <img src={nayara} alt="" />
-    <div className='começo'>
+    <img className='Nayara' src={nayara} alt="" />
+    <div className='comeco'>
       
       <h1>Nayara Dias</h1>
       <h2>28 Anos</h2>
+      <h4>Desenvolvedora Web</h4>
     </div>
   </header>
   )
