@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.Links{
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+}
+h5{
+    font-size: 20px;
+    margin-inline: 50px;
+}
