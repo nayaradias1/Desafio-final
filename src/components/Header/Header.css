@@ -21,7 +21,8 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(249,14,228,1) 35%, rg
 }
 .comeco{
     border-radius: 10px;
-    width: 300px;
+    width: 180px;
     height: 100px;
     color: white;
+    text-align: center;
 }

@@ -11,6 +11,7 @@ export default function Header() {
       <h1>Nayara Dias</h1>
       <h2>28 Anos</h2>
       <h4>Desenvolvedora Web</h4>
+      <hr />
     </div>
   </header>
   )
